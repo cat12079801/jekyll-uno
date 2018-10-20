@@ -11,14 +11,6 @@ author:
   twitter_username: Cos5X
   github_username:  cat12079801
 
-defaults:
-  -
-    scope:
-      path: ''
-      type: 'posts'
-    values:
-        layout: 'post'
-
 # Build settings
 destination: _site
 paginate: 10
