@@ -28,5 +28,8 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 
-plugins: ['jekyll-paginate']
+plugins: 
+  - 'jekyll-paginate'
+  - 'jekyll-target-blank'
+
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
