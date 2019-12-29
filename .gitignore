@@ -6,4 +6,5 @@ _site
 .DS_Store
 _posts
 assets
+.bundle/
 /vendor
