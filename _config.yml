@@ -32,4 +32,4 @@ plugins:
   - 'jekyll-paginate'
   - 'jekyll-target-blank'
 
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'vendor/*']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'vendor/*', '_posts/xxxx-xx-xx-example.md']
