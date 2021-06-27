@@ -1,5 +1,6 @@
 _site
 .sass-cache
+.jekyll-cache
 .jekyll-metadata
 *.sublime-project
 *.sublime-workspace
@@ -7,3 +8,4 @@ _site
 _posts
 assets
 /vendor
+Gemfile.lock
